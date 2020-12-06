@@ -1,0 +1,16 @@
+{
+  "configurations": [
+    {
+      "command": "npm run start-pt1",
+      "name": "Debug Pt1",
+      "request": "launch",
+      "type": "node-terminal"
+    },
+    {
+      "command": "npm run start-pt2",
+      "name": "Debug Pt2",
+      "request": "launch",
+      "type": "node-terminal"
+    }
+  ]
+}
